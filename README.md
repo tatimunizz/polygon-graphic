@@ -1,7 +1,7 @@
 
 # polygon-graphic
 <p align="center">
-Art with code! <br> A polygon mask with moving skewed triangles.
+Art with code! <br> A polygon mask with moving skewed rectangles.
 </p>
 <p align="center">
 <img src="https://github.com/tatimunizz/polygon-graphic/blob/master/output/gif/2022.09.18-08.30.50.gif" width="250" alt="polygon" height="250"/>
