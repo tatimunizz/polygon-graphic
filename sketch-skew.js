@@ -8,7 +8,7 @@ const seed = random.getRandomSeed();
 
 const settings = {
   dimensions: [ 1080, 1080 ],
-  //animate: true
+  animate: true
 };
 
 const sketch = ({ width, height }) => {
