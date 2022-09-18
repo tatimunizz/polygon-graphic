@@ -72,3 +72,4 @@ const sketch = ({ width, height }) => {
 };
 
 canvasSketch(sketch, settings);
+  
